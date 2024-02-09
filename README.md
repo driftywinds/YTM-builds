@@ -11,3 +11,7 @@ Remember the best way to get the ReVanced apks are to compile them yourself, but
 
 Finally, under no circumstance do I mean to not credit the original author of the patches, integrations and the builder [inotia00](https://github.com/inotia00) and the authors of the original patches [ReVanced Team](https://github.com/ReVanced) who have put in their hardwork to establish this pipeline for the masses. My goal is to provide the builds in good faith for people who are unable to do so themselves as I had been privately doing for friends and family already.
 
+---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=driftywinds/ytm-builds&type=Date)](https://star-history.com/#driftywinds/ytm-builds&Date)
