@@ -5,6 +5,10 @@ Repository for the releases of Youtube Music ReVanced builds compiled from ReVan
 
 ~~F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf~~ This is deprecated, I will make a new one.
 
+For people looking for YouTube builds: - [driftywinds/yt-builds](https://github.com/driftywinds/yt-builds)
+
+[![driftywinds/yt-builds - GitHub](https://gh-card.dev/repos/driftywinds/yt-builds.svg)](https://github.com/driftywinds/yt-builds)
+
 The options.json file has been altered for custom branding but all credits go to inotia00  and the ReVanced Team for the original ReVanced and ReVanced Extended patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
 
 NOTE: - These builds can be installed alongside any other build of YT ReVanced since the package name is unique to my builds. This means that you will not have to uninstall any other version of YT ReVanced you have installed already and can simultaneously use both my build and any other version you have installed.
