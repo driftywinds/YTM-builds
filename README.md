@@ -7,7 +7,7 @@ Repository for the releases of Youtube Music ReVanced builds compiled from ReVan
 
 For people looking for YouTube builds: - [driftywinds/yt-builds](https://github.com/driftywinds/yt-builds)
 
-[![driftywinds/yt-builds - GitHub](https://gh-card.dev/repos/driftywinds/yt-builds.svg)](https://github.com/driftywinds/yt-builds)
+[![driftywinds/yt-builds - GitHub](https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/driftywinds/yt-builds)
 
 The options.json file has been altered for custom branding but all credits go to inotia00  and the ReVanced Team for the original ReVanced and ReVanced Extended patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
 
