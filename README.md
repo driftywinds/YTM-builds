@@ -9,8 +9,6 @@ Repository for the releases of Youtube Music ReVanced builds compiled from ReVan
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/YTM-builds/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YTM-builds/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YTM-builds/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YTM-builds/latest/total?style=for-the-badge) 
 
-~~F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf~~ This is deprecated, I will make a new one.
-
 For people looking for YouTube builds: - [driftywinds/yt-builds](https://github.com/driftywinds/yt-builds)
 
 [![driftywinds/yt-builds - GitHub](https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/driftywinds/yt-builds)
