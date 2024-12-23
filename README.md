@@ -1,8 +1,10 @@
 # Youtube Music Revanced (including forks) builds releases
 Repository for the releases of Youtube Music ReVanced builds compiled from ReVanced Manager with custom branding for identification.
 
-> [!IMPORTANT]  
-> NEW: - I have an F-Droid repo available [here](https://files.drifty.win/repo/) as a backup in case GitHub ever takes this repository down. It includes YouTube builds too.
+> [!IMPORTANT]    
+> **You need GmsCore (or otherwise called microG) to use this app. You can find it [here](https://github.com/ReVanced/GmsCore/releases/latest).**
+
+> I have an F-Droid repo available [here](https://files.drifty.win/repo/) as a backup in case GitHub ever takes this repository down. It includes YouTube builds too.
 
 > [!TIP]
 > Builds are also availble on my Telegram channel [here](https://t.me/YTRXbuilds).
