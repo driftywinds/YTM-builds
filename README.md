@@ -32,9 +32,9 @@ Finally, under no circumstance do I mean to not credit the original author of th
 
 Some other projects of mine: - 
 
-[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=ytm-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="YTM builds"
-    height="120">](https://github.com/driftywinds/ytm-builds)
+    height="120">](https://github.com/driftywinds/yt-builds)
 &nbsp;
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=mixplorer-releases&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="MiXplorer Releases"
