@@ -32,6 +32,9 @@ Finally, under no circumstance do I mean to not credit the original author of th
 
 Some other projects of mine: - 
 
+[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=spotify-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+    alt="Spotify builds"
+    height="120">](https://github.com/driftywinds/spotify-builds)
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="YT builds"
     height="120">](https://github.com/driftywinds/yt-builds)
