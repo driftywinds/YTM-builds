@@ -1,5 +1,5 @@
-# Youtube Music Revanced (including forks) builds releases
-Repository for the releases of Youtube Music ReVanced builds compiled from ReVanced Manager with custom branding for identification.
+# Youtube Music Revanced (including forks like Morphe) builds releases
+Repository for the releases of Youtube Music Morphe builds compiled from Morphe Manager with custom branding for identification.
 
 > [!IMPORTANT]    
 > **You need GmsCore (or otherwise called microG) to use this app. You can find it [here](https://github.com/MorpheApp/MicroG-RE).**
